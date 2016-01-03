@@ -41,11 +41,54 @@
   float: left;
   box-sizing: border-box; }
 
+  div.image_projpage{
+      max-width:95%;
+      width:auto;
+       padding:10px;
+       font-size:90%;
+       border-style: solid;
+       position:relative;
+       margin:5px;
+       border-radius: 25px;
+       border-width: 1px;
+       border-color: #D3D3D3;
+  }
+
 /* For devices larger than 400px */
 @media (min-width: 400px) {
   .container {
     width: 85%;
     padding: 0; }
+
+    div.image_projpage{
+        max-width:95%;
+        width:auto;
+         padding:10px;
+         font-size:90%;
+         border-style: solid;
+         position:relative;
+         margin:5px;
+         border-radius: 25px;
+         border-width: 1px;
+         border-color: #D3D3D3;
+    }
+}
+
+/* For devices larger than 850px */
+@media (min-width: 850px) {
+    div.image_projpage{
+        max-width:47%;
+        width:auto;
+         padding:10px;
+         font-size:90%;
+         float:left;
+         border-style: solid;
+         position:relative;
+         margin:2px;
+         border-radius: 25px;
+         border-width: 1px;
+         border-color: #D3D3D3;
+    }
 }
 
 /* For devices larger than 550px */
@@ -110,6 +153,8 @@
   .offset-by-one-half.column,
   .offset-by-one-half.columns     { margin-left: 52%; }
 
+
+
 }
 
 /* Base Styles
@@ -134,18 +179,18 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 300; }
-h1 { font-size: 4.0rem; line-height: 1.2;  letter-spacing: -.1rem;}
-h2 { font-size: 3.6rem; line-height: 1.25; letter-spacing: -.1rem; }
-h3 { font-size: 3.0rem; line-height: 1.3;  letter-spacing: -.1rem; }
-h4 { font-size: 2.4rem; line-height: 1.35; letter-spacing: -.08rem; }
+h1 { font-size: 3.0rem; line-height: 1.2;  letter-spacing: -.1rem;}
+h2 { font-size: 2.5rem; line-height: 1.25; letter-spacing: -.1rem; }
+h3 { font-size: 2.0rem; line-height: 1.3;  letter-spacing: -.1rem; }
+h4 { font-size: 1.9rem; line-height: 1.35; letter-spacing: -.08rem; }
 h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 /* Larger than phablet */
 @media (min-width: 550px) {
-  h1 { font-size: 5.0rem; }
-  h2 { font-size: 4.2rem; }
-  h3 { font-size: 3.6rem; }
+  h1 { font-size: 4.0rem; }
+  h2 { font-size: 3.0rem; }
+  h3 { font-size: 2.5rem; }
   h4 { font-size: 3.0rem; }
   h5 { font-size: 2.4rem; }
   h6 { font-size: 1.5rem; }
@@ -161,9 +206,9 @@ p.small_font{
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB; }
+  color: #ff471a; }
 a:hover {
-  color: #1B9DC5; }
+  color:  #00ccff; }
 
 
 /* Buttons
@@ -201,7 +246,7 @@ input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
   color: #333;
-  border-color: #888;
+  border-color:  #00ccff;
   outline: 0; }
 .button.button-primary,
 button.button-primary,
@@ -209,8 +254,8 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
   color: #FFF;
-  background-color: #00CC99;
-  border-color: #00CC99; }
+  background-color: #ff8a14;
+  border-color: #ff8a14; }
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -380,8 +425,59 @@ form {
 
   /* Images
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
-img.smallimage{
-    width:500px;
+img{
+    height: auto;
+    width: auto;
+    max-width: 100%;
+}
+
+img.largeimage{
+    height: auto;
+    width: auto;
+    max-width: 95%;
+}
+
+div.image_caption{
+    max-width:100%;
+    width:auto;
+     padding:2px;
+     font-size:90%;
+     font-style: italic;
+}
+
+
+
+div:hover.image_projpage{
+    background-color: #e5faff;
+    border-color:  #00ccff;
+}
+
+img.image_float{
+  float:right;
+  width:400px;
+   height:auto;
+   padding:10px;
+}
+
+div.floatclear{
+    clear:both;
+}
+
+/* Make div boxes into clickable links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.emptyspan{
+  position:absolute;
+  width:100%;
+  height:100%;
+  top:0;
+  left: 0;
+
+  z-index: 1;
+}
+
+a.clickablediv{
+    background-color: black;
 }
 
 /* Misc
