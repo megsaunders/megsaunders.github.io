@@ -7,7 +7,7 @@ published: True
 ## Managing coastal ecosystems for impacts of climate change  
 
 <div class = "image_caption">
-<img src ="/images/coralreefslope.png" alt="coral reef" class="largeimage"/>
+<img src ="/images/patchy_coastal_landscape.png" alt="coral reef" class="largeimage"/>
 <p>
 Coral colonies in Roviana Lagoon, Solomon Islands, responding to relative sea-level rise of 0.6 m caused by subsidence from an earthquake in 2007
 </p>

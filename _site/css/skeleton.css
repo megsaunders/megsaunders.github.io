@@ -60,25 +60,15 @@
     width: 85%;
     padding: 0; }
 
-    div.image_projpage{
-        max-width:95%;
-        width:auto;
-         padding:10px;
-         font-size:90%;
-         border-style: solid;
-         position:relative;
-         margin:5px;
-         border-radius: 25px;
-         border-width: 1px;
-         border-color: #D3D3D3;
-    }
+
 }
 
 /* For devices larger than 850px */
-@media (min-width: 850px) {
+@media (min-width: 800px) {
     div.image_projpage{
         max-width:47%;
-        width:auto;
+        width:400px;
+        height:400px;
          padding:10px;
          font-size:90%;
          float:left;
@@ -94,7 +84,7 @@
 /* For devices larger than 550px */
 @media (min-width: 550px) {
   .container {
-    width: 80%; }
+    width: 90%; }
   .column,
   .columns {
     margin-left: 4%; }
@@ -445,7 +435,11 @@ div.image_caption{
      font-style: italic;
 }
 
-
+img.boximage{
+    height: auto;
+    width: 320px;
+    max-width: 100%;
+}
 
 div:hover.image_projpage{
     background-color: #e5faff;
