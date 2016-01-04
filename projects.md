@@ -5,7 +5,7 @@ title: projects
 
 ## Research projects  
 
-Click for more info  
+Click boxes for more info  
 
 <br>
 

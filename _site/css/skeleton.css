@@ -63,24 +63,6 @@
 
 }
 
-/* For devices larger than 850px */
-@media (min-width: 800px) {
-    div.image_projpage{
-        max-width:47%;
-        width:400px;
-        height:400px;
-         padding:10px;
-         font-size:90%;
-         float:left;
-         border-style: solid;
-         position:relative;
-         margin:2px;
-         border-radius: 25px;
-         border-width: 1px;
-         border-color: #D3D3D3;
-    }
-}
-
 /* For devices larger than 550px */
 @media (min-width: 550px) {
   .container {
@@ -145,6 +127,24 @@
 
 
 
+}
+
+/* For devices larger than 800px */
+@media (min-width: 800px) {
+    div.image_projpage{
+        max-width:47%;
+        width:400px;
+        height:400px;
+         padding:10px;
+         font-size:90%;
+         float:left;
+         border-style: solid;
+         position:relative;
+         margin:2px;
+         border-radius: 25px;
+         border-width: 1px;
+         border-color: #D3D3D3;
+    }
 }
 
 /* Base Styles
@@ -437,7 +437,7 @@ div.image_caption{
 
 img.boximage{
     height: auto;
-    width: 320px;
+    width: 78%;
     max-width: 100%;
 }
 
