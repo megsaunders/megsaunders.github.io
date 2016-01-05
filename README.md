@@ -1,2 +1,2 @@
-Megan Saunders' webpage
-Built using Jekyll and Skeleton CSS
+#Megan Saunders' webpage  
+Built using Jekyll and Skeleton CSS  
