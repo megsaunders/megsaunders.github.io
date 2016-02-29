@@ -17,4 +17,4 @@ Coastal ecosystems provide goods and services supporting human wellbeing. Climat
 
 
 
-See: [Mills et al. 2015]() [Brown et al. 2013](), [Brown et al. 2014](), [Rogers et al. 2015](), [Sale et al. 2014]()
+See: [Mills et al. 2015](http://onlinelibrary.wiley.com/doi/10.1111/conl.12213/full) [Brown et al. 2013](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065765), [Brown et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/ddi.12159/full), [Rogers et al. 2015](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12725/full), [Sale et al. 2014](http://www.sciencedirect.com/science/article/pii/S0025326X1400366X)

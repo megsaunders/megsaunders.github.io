@@ -17,4 +17,4 @@ Sea-level rise of up to 1 m or more is anticipated by 2100 due to melting of ice
 
 
 
-See: [Saunders et al. 2015](http://link.springer.com/article/10.1007/s00338-015-1365-0), [Saunders et al. 2014](http://www.nature.com/nclimate/journal/v4/n8/full/nclimate2274.html), [Saunders et al. 2013](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12218/full), [Lovelock et al. 2015]()
+See: [Saunders et al. 2015](http://link.springer.com/article/10.1007/s00338-015-1365-0), [Saunders et al. 2014](http://www.nature.com/nclimate/journal/v4/n8/full/nclimate2274.html), [Saunders et al. 2013](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12218/full), [Lovelock et al. 2015](http://www.nature.com/nature/journal/v526/n7574/full/nature15538.html)
