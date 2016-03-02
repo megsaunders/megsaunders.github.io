@@ -9,7 +9,7 @@ published: True
 <div class = "image_caption">
 <img src ="/images/mangrove.png" alt="coral reef" class="largeimage"/>
 <p>
-Mangrove restoration projects are typically less costly than other marine ecosystems, largely because of volunteer efforts in developing countries and the relative ease of collecting mangrove seeds and recruits.
+Coastal habitats like these mangroves are very good at trapping carbon dioxed from the atmosphere and burying it in ocean sedimenets where it can't contribute to climate change.
 </p>
 </div>  
 
