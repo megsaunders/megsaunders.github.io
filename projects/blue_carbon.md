@@ -9,7 +9,7 @@ published: True
 <div class = "image_caption">
 <img src ="/images/mangrove.png" alt="coral reef" class="largeimage"/>
 <p>
-Coastal habitats like these mangroves are very good at trapping carbon dioxed from the atmosphere and burying it in ocean sedimenets where it can't contribute to climate change.
+Coastal habitats like these mangroves are very good at trapping carbon dioxed from the atmosphere and burying it in ocean sediments where it can't contribute to climate change.
 </p>
 </div>  
 
