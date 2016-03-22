@@ -14,9 +14,10 @@ title: collaborations
 <a href ="https://www.gpem.uq.edu.au/stuart-phinn" target="_blank">Stuart Phinn </a>  
 <a href ="https://www.gpem.uq.edu.au/chris-roelfsema" target="_blank">Chris Roelfsema </a>  
 
-## Spatial  
+## Conservation planning and law  
 <a href ="http://www.possinghamlab.org/" target="_blank">Hugh Possingham</a>  
-<a href ="http://www.law.uq.edu.au/academic-staff/staff.php?nm=justinebell" target="_blank">Justine Bell</a>  
+<a href ="http://researchers.uq.edu.au/researcher/2216" target="_blank">Justine Bell</a>  
+<a href ="http://researchers.uq.edu.au/researcher/2216" target="_blank">Morena Mills</a>
 
 ## Physical sciences  
 <a href ="http://www.usc.edu.au/explore/structure/faculty-of-science-health-education-and-engineering/staff/dr-javier-leon" target="_blank">Javier Leon </a>  
