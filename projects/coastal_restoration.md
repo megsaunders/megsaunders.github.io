@@ -17,4 +17,4 @@ Coastal marine ecosystems are being lost at a rapid rate around the world and th
 
 
 
-See: [Bayraktarov et al. 2015a](), [Bayraktarov et al. 2015b]()
+See: [Bayraktarov et al. 2015 paper](http://onlinelibrary.wiley.com/doi/10.1890/15-1077/full), [Bayraktarov et al. 2015 database](http://datadryad.org/resource/doi:10.5061/dryad.rc0jn)
