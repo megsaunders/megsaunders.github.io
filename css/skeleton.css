@@ -423,7 +423,7 @@ img{
 
 img.largeimage{
     height: auto;
-    width: auto;
+    width: 60%;
     max-width: 95%;
 }
 
