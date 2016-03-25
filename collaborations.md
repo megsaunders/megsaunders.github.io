@@ -6,9 +6,9 @@ title: collaborations
 ## Collaborations
 
 ## Marine ecology  
-<a href ="http://www.seascapemodels.org" target="_blank">Chris Brown </a>  
 <a href ="http://researchers.uq.edu.au/researcher/1430" target="_blank">Cath Lovelock </a>  
 <a href ="http://www.marinespatialecologylab.org" target="_blank">Peter Mumby </a>  
+<a href ="http://www.seascapemodels.org" target="_blank">Chris Brown </a>  
 
 ## Remote sensing  
 <a href ="https://www.gpem.uq.edu.au/stuart-phinn" target="_blank">Stuart Phinn </a>  
