@@ -21,14 +21,20 @@ Canada
 
 ### Current appointments:  
 
+Research Fellow (May 2016-present)  
+ School of Geography, Planning and Environmental Management  
+The University of Queensland  
+St Lucia (Brisbane), QLD 4072  
+Australia 
+
 Researcher (Aug 2015-present)  
-ARC Centre of Excellence for Environmental Decisions  
+Centre for Biodiversity and Conservation Science 
 School of Biological Sciences  
 The University of Queensland  
 St Lucia (Brisbane), QLD 4072  
 Australia  
 
-Honorary Fellow (Aug 2015-present)  
+Affiliate (Aug 2015-present)  
 The Global Change Institute  
 The University of Queensland  
 St Lucia (Brisbane), QLD 4072  
