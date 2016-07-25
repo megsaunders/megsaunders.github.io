@@ -9,6 +9,7 @@ title: collaborations
 <a href ="http://researchers.uq.edu.au/researcher/1430" target="_blank">Cath Lovelock </a>  
 <a href ="http://www.marinespatialecologylab.org" target="_blank">Peter Mumby </a>  
 <a href ="http://www.seascapemodels.org" target="_blank">Chris Brown </a>  
+<a href ="https://annametaxas.wordpress.com/people/anna-metaxas/" target="_blank">Anna Metaxas</a>
 
 ## Remote sensing  
 <a href ="https://www.gpem.uq.edu.au/stuart-phinn" target="_blank">Stuart Phinn </a>  
