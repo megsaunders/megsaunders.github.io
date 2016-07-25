@@ -3,7 +3,7 @@ layout: default
 title: collaborations
 ---
 
-## Collaborations  
+## Collaborators  
 
 ### Marine ecology  
 <a href ="http://researchers.uq.edu.au/researcher/1430" target="_blank">Cath Lovelock </a>  
@@ -28,4 +28,3 @@ title: collaborations
 <a href ="http://www.civil.uq.edu.au/callaghan" target="_blank">David Callaghan</a>  
 <a href ="http://www.civil.uq.edu.au/baldock" target="_blank">Tom Baldock</a>  
 <a href ="http://www.civil.uq.edu.au/albert" target="_blank">Simon Albert</a>  
- 
