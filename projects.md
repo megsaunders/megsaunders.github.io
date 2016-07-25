@@ -17,7 +17,7 @@ Click boxes for more info
    <span class="emptyspan"></span>
 </a>
 <p>
-Corals can keep up with sea level rise, if we look after them.
+Can coral reefs and other marine ecosystems keep up with sea-level rise?
 </p>
 </div>
 
@@ -41,7 +41,7 @@ Coastal ecosystems are important for people and biodiversity, but are threatened
    <span class="emptyspan"></span>
 </a>
 <p>
-We calculated the price of restoring coastal habitats, it turns out it is cheaper for some habitats than others.
+We calculated how much it costs to restore coastal marine ecosystems, and how likely restoration projects are to succeed.
 </p>
 </div>
 
@@ -65,7 +65,7 @@ Advancing technologies are increasing our capacity to sample and model spatial v
    <span class="emptyspan"></span>
 </a>
 <p>
-Coastal ecosystems capture carbon from the atmosphere and may help us mitigate climate change, if we can conserve them.
+Coastal ecosystems capture carbon from the atmosphere and may help us mitigate climate change.
 </p>
 </div>
 
@@ -76,7 +76,7 @@ Coastal ecosystems capture carbon from the atmosphere and may help us mitigate c
    <span class="emptyspan"></span>
 </a>
 <p>
-Coastal ecosystems provide goods and services supporting human wellbeing.
+Conservation biology factors in how humans interact with natural ecosystems. 
 </p>
 </div>
 
