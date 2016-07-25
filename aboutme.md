@@ -3,9 +3,7 @@ layout: default
 title: About me
 ---
 
-## About me
-
-## About me
+## About me  
 
 ### Qualifications  
 PhD in Oceanography (2010)  
