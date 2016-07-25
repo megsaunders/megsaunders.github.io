@@ -24,8 +24,8 @@ title: collaborations
 <a href ="http://researchers.uq.edu.au/researcher/2216" target="_blank">Morena Mills</a>  
 
 ## Engineering 
-<a href ="http://www.chemeng.uq.edu.au/obrien" target="_blank">David Callaghan </a>  
-<a href ="http://www.civil.uq.edu.au/callaghan" target="_blank">David Callaghan </a>  
+<a href ="http://www.chemeng.uq.edu.au/obrien" target="_blank">Kate O'Brien</a>  
+<a href ="http://www.civil.uq.edu.au/callaghan" target="_blank">David Callaghan</a>  
 <a href ="http://www.civil.uq.edu.au/baldock" target="_blank">Tom Baldock</a>  
-<a href ="http://www.civil.uq.edu.au/albert" target="_blank">Simon Albert </a>  
+<a href ="http://www.civil.uq.edu.au/albert" target="_blank">Simon Albert</a>  
  
