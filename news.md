@@ -7,13 +7,14 @@ title: News
 
 <div>
 {% for post in site.posts limit:10 %}
-<div class = "image_projpage">
+<div class = "image_projpage2">
     <h3> {{ post.date | date: "%d %b %Y" }} </h3>
    <h3> {{ post.title }} </h3> 
    <a href="{{ post.url }}">
    <span class="emptyspanpost"></span></a>
    </div>
 {% endfor %}
+<div class="floatclear"></div>
 </div>
 
 ### 24 July 2016  
