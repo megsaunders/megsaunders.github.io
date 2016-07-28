@@ -53,6 +53,20 @@
        border-width: 1px;
        border-color: #D3D3D3;
   }
+  
+    div.image_projpage2{
+      max-width:95%;
+      width:auto;
+      max-height:40px;
+       padding:10px;
+       font-size:90%;
+       border-style: solid;
+       position:relative;
+       margin:5px;
+       border-radius: 25px;
+       border-width: 1px;
+       border-color: #D3D3D3;
+  }
 
 /* For devices larger than 400px */
 @media (min-width: 400px) {
