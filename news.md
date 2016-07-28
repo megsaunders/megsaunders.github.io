@@ -5,7 +5,7 @@ title: News
 
 ## News
 
-<div class = "postlist>
+<div class = "button.square">
 {% for post in site.posts limit:10 %}
 <a href="{{ post.url }}"> <h3>
     <h3> {{ post.date | date: "%d %b %Y" }} </h3>
