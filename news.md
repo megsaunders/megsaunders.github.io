@@ -4,12 +4,16 @@ title: News
 ---
 
 ## News
-
-<div class = "button.square">
+<div>
 {% for post in site.posts limit:10 %}
-<a href="{{ post.url }}"> <h3>
+<div class = "image_projpage">
+<a href="{{ post.url }}"> 
     <h3> {{ post.date | date: "%d %b %Y" }} </h3>
-    {{ post.title }} </h3> </a>
+   <h3> {{ post.title }} </h3> </a>
+   <a href="/projects/coral_reefs_SLR.html">
+   <span class="emptyspan"></span>
+    </a>
+   </div>
 {% endfor %}
 </div>
 
