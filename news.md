@@ -5,6 +5,14 @@ title: News
 
 ## News
 
+{% for post in site.posts limit:10 %}
+    <h3> {{ post.date | date: "%d %b %Y" }} </h3>
+    <h3> {{ post.title }} </h3>
+    <a href="{{ post.url }}">
+       <span class="emptyspan"></span>
+    </a>
+{% endfor %}
+
 ### 24 July 2016  
 I will soon be joining a team of talented women scientists in a <a href ="http://www.scienceweek.net.au/">National Science Week</a>   program for science outreach. We recently completed media and communication training in Brisbane.  
 
