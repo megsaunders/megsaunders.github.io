@@ -5,10 +5,11 @@ title: News
 
 ## News
 
-<div>
+<div class = "postlist>
 {% for post in site.posts limit:10 %}
-    <h3 class ="post_date"> {{ post.date | date: "%d %b %Y" }} </h3>
-   <a href="{{ post.url }}"> <h3 class = "post_title"> {{ post.title }} </h3> </a>
+<a href="{{ post.url }}"> <h3>
+    <h3> {{ post.date | date: "%d %b %Y" }} </h3>
+    {{ post.title }} </h3> </a>
 {% endfor %}
 </div>
 
