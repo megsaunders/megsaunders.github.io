@@ -12,9 +12,6 @@ title: News
 {% endfor %}
 </div>  
 
-### 24 July 2016  
-I will soon be joining a team of talented women scientists in a <a href ="http://www.scienceweek.net.au/">National Science Week</a>   program for science outreach. We recently completed media and communication training in Brisbane.  
-
 ### 8 July 2016  
 It has been a busy few weeks of conferencing. This week I attended the Society for Conservation Biology conference in Brisbane, where I presented my research on managing for impacts of sea-level rise on coastal marine ecosystems. In June I attended the International Coral Reef Society meeting in Hawaii. There I presented my research on impacts of wave energy on shallow coral reef flat and seagrass communities, and my research on using earthquake subsidence zones to understand how sea-level rise affects marine ecosystems.  
 
