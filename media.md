@@ -6,6 +6,17 @@ title: media
 ## Select media
 
 <div class = "image_projpage">
+<h3> Soapbox Science in the news  </h3>
+<img src="/images/soapbox_megan_crop2.png" class="boximage" >
+<a href="http://www.brisbanetimes.com.au/queensland/science-on-a-soapbox-comes-to-king-george-square-20160820-gqxb5f.html" target= "_blank" >
+   <span class="emptyspan"></span>
+</a>
+<p>
+I rencently presented my research on coasts and conservation in the first Australian Soapbox Science event in King George Square, Brisbane. Click to see the article in the Brisbane Times.
+</p>
+</div>
+
+<div class = "image_projpage">
 <h3> Bommies award  </h3>
 <img src="/images/bommies.png" class="boximage" >
 <a href="http://www.barrierreef.org/our-science/bommies-award/2014-winner#page-title" target= "_blank" >
