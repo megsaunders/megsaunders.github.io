@@ -24,7 +24,6 @@ The University of Queensland
 
 Researcher (2014-present)  
 Centre for Biodiversity and Conservation Science  
-School of Biological Sciences  
 The University of Queensland  
 St Lucia, QLD, Australia  
 
