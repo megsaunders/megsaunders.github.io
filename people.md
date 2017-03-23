@@ -6,6 +6,7 @@ title: People
 ## People  
 
 ### Current Group Members 
+
 <a href ="https://sees.uq.edu.au/profile/4554/nicole-shumway" target="_blank">Nicole Shumway </a>  (PhD Student, UQ)
 
 <a href ="https://www.linkedin.com/in/alice-twomey-55378038/" target="_blank">Alice Twomey </a>   (PhD Student, UQ)
