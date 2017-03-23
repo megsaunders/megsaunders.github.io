@@ -6,9 +6,9 @@ title: People
 ## People  
 
 ### Current Group Members 
-<a href ="https://sees.uq.edu.au/profile/4554/nicole-shumway" target="_blank">Nicole Shumway (PhD, UQ)</a>  
+<a href ="https://sees.uq.edu.au/profile/4554/nicole-shumway" target="_blank">Nicole Shumway </a>  (PhD Student, UQ)
 
-<a href ="https://www.linkedin.com/in/alice-twomey-55378038/" target="_blank">Alice Twomey (PhD, UQ)</a>   
+<a href ="https://www.linkedin.com/in/alice-twomey-55378038/" target="_blank">Alice Twomey (PhD Student, UQ)</a>   
 
 ### Previous Students, Research Assistants, and Postdocs 
 <a href ="http://www.cimar.ucr.ac.cr/en/staff/scientists/jimena-samper-villarreal,-phd.html" target="_blank">Jimena Samper-Villarreal (PhD, UQ)</a>
