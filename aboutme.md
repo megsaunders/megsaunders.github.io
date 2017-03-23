@@ -18,12 +18,11 @@ Burnaby, British Columbia, Canada
 
 ### Current appointments:  
 
-Research Fellow (May 2016-present)  
-School of Geography, Planning and Environmental Management  
-The University of Queensland  
-St Lucia, QLD, Australia 
+Senior Research Fellow (May 2017- )
+School of Chemical Engineering
+The University of Queensland
 
-Researcher (Aug 2015-present)  
+Researcher (2014-present)  
 Centre for Biodiversity and Conservation Science 
 School of Biological Sciences  
 The University of Queensland  
@@ -35,6 +34,11 @@ The University of Queensland
 St Lucia, QLD, Australia  
 
 ### Previous appointments   
+Research Fellow (2016-2017)  
+School of Earth and Environmental Science 
+The University of Queensland  
+St Lucia, QLD, Australia 
+
 ARC SuperScience Postdoctoral Research Fellow (2011-2015)  
 The Global Change Institute   
 The University of Queensland  
