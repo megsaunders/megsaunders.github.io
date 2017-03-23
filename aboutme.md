@@ -19,7 +19,7 @@ Burnaby, British Columbia, Canada
 ### Current appointments:  
 
 Senior Research Fellow (May 2017- )  
-[School of Chemical Engineering](www.chemeng.uq.edu.au/)  
+[School of Chemical Engineering](https://www.chemeng.uq.edu.au/)  
 The University of Queensland
 St Lucia, QLD, Australia
 
@@ -28,7 +28,7 @@ Researcher (2014-present)
 The University of Queensland  
 
 Affiliate (Aug 2015-present)  
-[The Global Change Institute](www.gci.uq.edu.au/)  
+[The Global Change Institute](https://www.gci.uq.edu.au/)  
 The University of Queensland  
 
 ### Previous appointments   
@@ -37,9 +37,9 @@ Research Fellow (2016-2017)
 The University of Queensland  
 
 ARC SuperScience Postdoctoral Research Fellow (2011-2015)  
-[The Global Change Institute](www.gci.uq.edu.au/)  
+[The Global Change Institute](https://www.gci.uq.edu.au/)  
 The University of Queensland  
 
 Endeavour Postdoctoral Research Associate (2010)  
-[Oceans Institute](www.oceans.uwa.edu.au/)  
+[Oceans Institute](https://www.oceans.uwa.edu.au/)  
 The University of Western Australia  
