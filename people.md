@@ -17,7 +17,7 @@ title: People
 
 <a href ="http://possinghamlab.org/people-new/all-lab-members/553-elisa-bayraktarov.html">Elisa Bayraktarov </a>
 
-<a href ="http://https://uq.academia.edu/JudeKeyse">Jude Keyes </a>
+<a href ="https://uq.academia.edu/JudeKeyse">Jude Keyse </a>
 
 <a href ="http://www.web.uwa.edu.au/__data/assets/pdf_file/0011/1637552/Strickland_2010.pdf">Daniel Strickland </a>
 
