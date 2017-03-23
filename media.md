@@ -12,7 +12,7 @@ title: media
    <span class="emptyspan"></span>
 </a>
 <p>
-In this 2 min video I communicate my research on connections between terrestrial and marine ecosystems to a general audience. The QLD Women in Stem Award winners will be announced during World Science Festival Brisbane in March 2017. 
+In this 2 min video I communicate my research on connections between terrestrial and marine ecosystems to a general audience. 
 </p>
 </div>
 
