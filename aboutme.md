@@ -18,9 +18,9 @@ Burnaby, British Columbia, Canada
 
 ### Current appointments:  
 
-Senior Research Fellow (May 2017- )
-School of Chemical Engineering
-The University of Queensland
+Senior Research Fellow (May 2017- ) 
+School of Chemical Engineering 
+The University of Queensland 
 
 Researcher (2014-present)  
 Centre for Biodiversity and Conservation Science 
