@@ -6,13 +6,13 @@ title: media
 ## Select media
 
 <div class = "image_projpage">
-<h3> 2017 QLD Women in STEM Awards </h3>
+<h3> 2017 QLD Women in STEM Awards  </h3>
 <img src="/images/CoverRestoringRivers.png" class="boximage" >
 <a href="https://youtu.be/HqSBgxDd6mA" target= "_blank" >
    <span class="emptyspan"></span>
 </a>
 <p>
-My current research focuses on how land use change affects marine ecosystems. In this 2 min video "Restoring Rivers to Benefit Marine Ecosystems" I give a 2 min overview of the topic to a general audience. I submitted the video to the 2017 QLD Women in STEM Awards. The winners will be announced during the World Science Festival Brisbane in March 2017. 
+In this 2 min video I communicate a 2 min overview of my research to a general audience. I submitted the video to the 2017 QLD Women in STEM Awards. The winners will be announced during the World Science Festival Brisbane in March 2017. 
 </p>
 </div>
 
