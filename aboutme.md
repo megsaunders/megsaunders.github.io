@@ -18,12 +18,12 @@ Burnaby, British Columbia, Canada
 
 ### Current appointments:  
 
-Senior Research Fellow (May 2017- ) 
-School of Chemical Engineering 
-The University of Queensland 
+Senior Research Fellow (May 2017- )  
+School of Chemical Engineering  
+The University of Queensland  
 
 Researcher (2014-present)  
-Centre for Biodiversity and Conservation Science 
+Centre for Biodiversity and Conservation Science  
 School of Biological Sciences  
 The University of Queensland  
 St Lucia, QLD, Australia  
@@ -35,7 +35,7 @@ St Lucia, QLD, Australia
 
 ### Previous appointments   
 Research Fellow (2016-2017)  
-School of Earth and Environmental Science 
+School of Earth and Environmental Science  
 The University of Queensland  
 St Lucia, QLD, Australia 
 
