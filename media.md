@@ -7,7 +7,7 @@ title: media
 
 <div class = "image_projpage">
 <h3> 2017 QLD Women in STEM Awards </h3>
-<img src="/images/CoverRestoringRivers.jpg" class="boximage" >
+<img src="/images/CoverRestoringRivers.png" class="boximage" >
 <a href="https://youtu.be/HqSBgxDd6mA" target= "_blank" >
    <span class="emptyspan"></span>
 </a>
