@@ -3,11 +3,13 @@ layout: default
 title: collaborations
 ---
 
-## Key Collaborators  
+## Key Collaborations  
 
 ### Industry Partnerships
 <a href ="http://hlw.org.au/" target="_blank">Healthy Land and Water </a>  
 <a href ="https://www.csiro.au/en/Research/OandA/Areas/Coastal-management/Coastal-Carbon-Cluster" target="_blank">CSIRO </a>  
+<a href ="https://www.wcs.org/" target="_blank">Wildlife Conservation Society </a>  
+<a href ="https://www.nature.org/" target="_blank">The Nature Conservancy </a>  
 
 ### Marine ecology  
 <a href ="http://researchers.uq.edu.au/researcher/1430" target="_blank">Cath Lovelock </a>  
