@@ -5,13 +5,13 @@ title: People
 
 ## People  
 
-### Current Group Members 
+### Current students 
 
 <a href ="https://sees.uq.edu.au/profile/4554/nicole-shumway" target="_blank">Nicole Shumway </a>  (PhD Student, UQ)
 
 <a href ="https://www.linkedin.com/in/alice-twomey-55378038/" target="_blank">Alice Twomey </a>   (PhD Student, UQ)
 
-### Select Previous Supervisory Responsibilities 
+### Select recent supervisory responsibilities 
 
 <a href ="http://possinghamlab.org/people-new/all-lab-members/553-elisa-bayraktarov.html">Elisa Bayraktarov </a> (Postdoc, UQ, 2014-2015)
 
