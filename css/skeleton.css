@@ -284,7 +284,9 @@ input[type="button"].button-primary:focus {
 
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-ul {
+
+
+{
   list-style: circle inside; }
 ol {
   list-style: decimal inside; }
@@ -300,6 +302,11 @@ ol ul {
 li {
   margin-bottom: 1rem; }
 
+ul.navbar {
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 
 /* Code
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -436,18 +443,16 @@ a.clickablediv{
     background-color: black;
 }
 
-#navbar ul li{
- visibility:hidden;
- width:0%;
-  height:0%;
-  overflow:hidden;
+#navbar{
+ display:hidden;
+ position: absolute;
+ top: 0;
+ left: 0;
+ background: #fff;
 }
 
-#navbar:target ul li{
-  visibility:show;
-  width:auto;
-  height:auto;
-  overflow:show;
+#navbar:target{
+  display:block;
 }
 
 
