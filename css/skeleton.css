@@ -497,12 +497,16 @@ a.clickablediv{
     background-color: black;
 }
 
-#navbar li{
+#navbar ul{
  visibility:hidden;
+ width:0%;
+  height:0%;
 }
 
-#navbar:target li{
+#navbar:target ul{
   visibility:show;
+  width:auto;
+  height:auto;
 }
 
 
