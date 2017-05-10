@@ -6,6 +6,7 @@ title: collaborations
 ## Key Collaborations  
 
 ### Industry Partnerships
+<a href ="http://www.gbrmpa.gov.au/" target="_blank">Great Barrier Reef Marine Park Authority</a>  
 <a href ="http://hlw.org.au/" target="_blank">Healthy Land and Water </a>  
 <a href ="https://www.csiro.au/en/Research/OandA/Areas/Coastal-management/Coastal-Carbon-Cluster" target="_blank">CSIRO </a>  
 <a href ="https://www.wcs.org/" target="_blank">Wildlife Conservation Society </a>  
@@ -16,6 +17,7 @@ title: collaborations
 <a href ="http://www.marinespatialecologylab.org" target="_blank">Peter Mumby </a>  
 <a href ="http://www.seascapemodels.org" target="_blank">Chris Brown </a>  
 <a href ="https://annametaxas.wordpress.com/people/anna-metaxas/" target="_blank">Anna Metaxas</a>  
+<a href ="https://research.jcu.edu.au/portfolio/catherine.collier/" target="_blank">Catherine Collier</a>  
 
 ### Remote sensing and geomorphology  
 <a href ="https://www.gpem.uq.edu.au/stuart-phinn" target="_blank">Stuart Phinn </a>  
@@ -28,6 +30,7 @@ title: collaborations
 <a href ="http://www.possinghamlab.org/" target="_blank">Hugh Possingham</a>  
 <a href ="http://researchers.uq.edu.au/researcher/2216" target="_blank">Justine Bell</a>  
 <a href ="http://researchers.uq.edu.au/researcher/2216" target="_blank">Morena Mills</a>  
+<a href ="https://michaelbode.wordpress.com/" target="_blank">Michael Bode</a>
 
 ### Engineering 
 <a href ="http://www.chemeng.uq.edu.au/obrien" target="_blank">Kate O'Brien</a>  
