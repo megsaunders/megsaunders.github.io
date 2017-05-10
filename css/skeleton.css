@@ -444,7 +444,7 @@ a.clickablediv{
 }
 
 #navbar{
- display:hidden;
+ display:none;
  position: absolute;
  top: 0;
  left: 0;
