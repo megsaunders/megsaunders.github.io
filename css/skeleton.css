@@ -497,6 +497,15 @@ a.clickablediv{
     background-color: black;
 }
 
+#navbar li{
+ visibility:hidden;
+}
+
+#navbar:target li{
+  visibility:show;
+}
+
+
 /* Misc
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
