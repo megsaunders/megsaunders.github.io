@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About me
+title: Qualifications
 ---
 
-## About me  
+## Qualifications and Appointments
 
 ### Qualifications  
 PhD in Oceanography (2010)  
