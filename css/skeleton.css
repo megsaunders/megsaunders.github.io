@@ -465,6 +465,17 @@ ul.navbar {
   border-width:1px;
 }
 
+@media (min-width: 550px) {
+  #navbar:target{
+  width:auto;
+}
+  #navbar ul li{
+    width:auto;
+    float:left;
+    margin:0.1em;
+  }
+}
+
 /* Misc
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
